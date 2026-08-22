@@ -3,9 +3,9 @@
 
 <div>
   <!-- 圖片置右 -->
-  <br><b>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b></b></br>
+  <br><b>⊹ ࣪ ﹏𓊝﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏⊹ ࣪ ˖</p></b></b></br>
   <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="center" style="margin-left: 15px;" />
-  <br><b>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b></b></br>
+  <br><b>⊹ ࣪ ﹏𓊝﹏⊹ ࣪*ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏⊹ ࣪ ˖</p></b></b></br>
   <!-- 文字置左 -->
   <p>Hi, I'm Anne !</p>
   <p>📌 Former Digital Marketer transitioning into tech-</p>
