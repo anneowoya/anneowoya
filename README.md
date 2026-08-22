@@ -10,7 +10,7 @@
   <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
 </div>
 <div style="clear: both;"></div>
-  <img align="left" width="450" height="800" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"  alt="Anne's Journey" />
+<img align="left" width="450" height="800" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"/>
 
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
