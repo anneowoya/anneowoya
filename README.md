@@ -46,7 +46,13 @@
 
 
 
-| 發照機構 / 技能 | 證書名稱 | 說明 / 徽章 |
+| Issuing Organization | NAME | BADGE|
 | :--- | :--- | :--- |
-| **Microsoft / Certiport** | ITS Python Certification | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Microsoft / Certiport** | ITS Databases Certification | ![Database](https://img.shields.io/badge/Database-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| **Certiport** | ITS Python Certification | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Certiport** | ITS Databases Certification | ![Database](https://img.shields.io/badge/Database-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| **TQC** | 網頁資料擷取與分析 Python 3 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **TQC+** | 程式語言 Python 3 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **TQC+** | 軟體開發知識 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **TQC+** | Python大數據分析專業人員 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+
