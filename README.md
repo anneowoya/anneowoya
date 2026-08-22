@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <div style="clear: both;"></div>
 
   ![Python](https://shields.io)
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30094736-5dd5-48ec-8217-6c43801a870b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  [![ITS Python](https://credly.com)](https://credly.com)
 
