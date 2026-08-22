@@ -11,6 +11,7 @@
 <div style="clear: both;"></div>
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+<br></br>
 ```bash
 anneowoya@github:~ $ cat profile.sh
 
@@ -28,7 +29,7 @@ Loading Skills & Knowledge...
 
 echo "Environment initialized successfully!"
 ```
-
+<br></br>
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
 
