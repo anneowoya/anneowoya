@@ -17,7 +17,8 @@
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
 <!-- 技能標籤與證書徽章 -->
-<h3> Certificate </h3>
+<h2> Certificate </h2>
+
   <!-- 漂亮的 Python 技能標籤 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
