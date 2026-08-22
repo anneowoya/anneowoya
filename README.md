@@ -16,18 +16,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=System.init();+Hello+World!;Former+Digital+Marketer+-%3E+Tech;Learning+%26+Building+Every+Day...%E2%98%95" alt="Typing SVG" />
 </p>
 
-```ansi
-[1;32manneowoya@github[0m:[1;34m~[0m$ cat profile.sh
+```bash
+anneowoya@github:~ $ cat profile.sh
 
-[1;33mUSER_INFO[0m=(
-    [[1;36mNAME[0m]="Anne Lee"
-    [[1;36mROLE[0m]="IM STUDENT"
-    [[1;36mLOCATION[0m]="Taichung, Taiwan"
-    [[1;36mPHILOSOPHY[0m]="Courage is not the absence of fear,"
+USER_INFO=(
+    [NAME]="Anne Lee"
+    [ROLE]="IM STUDENT"
+    [LOCATION]="Taichung, Taiwan"
+    [PHILOSOPHY]="Courage is not the absence of fear,"
                  "but rather the judgment that..."
 )
 
-[1;35mecho[0m "Initializing developer environment..."
+echo "Initializing developer environment..."
 ```
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
