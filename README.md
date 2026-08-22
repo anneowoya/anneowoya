@@ -15,16 +15,16 @@
 anneowoya@github:~ $ cat profile.sh
 
 USER_INFO=(
-    [NAME]="Anne Lee"
-    [ROLE]="IM STUDENT"
-    [LOCATION]="Taichung, Taiwan"
-    [PHILOSOPHY]="Courage is not the absence of fear,"
+    [WHAT's MY NAME]="Anne Lee"
+    [CHARACTER]="Information Management STUDENT"
+    [LOCATION]="Taiwan"
+    [LIFE QUOTE]="Courage is not the absence of fear,"
                  "but rather the judgment that..."
 )
 
 Loading Skills & Knowledge...
 [████████████████████████████████░░░░] 80% (Data Analysis)
-[██████████████████████░░░░░░░░░░░░░░] 55% (Python / SQL)
+[██████████████████████████████░░░░░░░] 70% (Python / SQL)
 
 echo "Environment initialized successfully!"
 ```
