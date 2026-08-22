@@ -6,7 +6,7 @@
 <div>
   <!-- 文字置左 -->
   <p>Hi, I'm Anne !</p>
-  <p>📌 Former Digital Marketer transitioning into tech-</p>
+  <p>📌 Former Digital Marketer transitioning into tech 轉職路上中--------</p>
   <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
 </div>
 <div style="clear: both;"></div>
