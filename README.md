@@ -27,3 +27,6 @@ Here are some ideas to get you started:
   <b><p> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 </div>
 <div style="clear: both;"></div>
+
+  ![Python](https://shields.io)
+  ![JavaScript](https://shields.io)
