@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 
 
 
-
-<div>
-  <!-- 圖片置右 -->
-  <img width="270" height="480" alt="gif" src="https://github.com" align="right" style="margin-left: 20px;" />
-  
-  <!-- 文字置左 -->
-  <h2>Hi, I'm Anne ! 👋</h2>
-  <p>📌 Former Digital Marketer transitioning into tech-</p>
-  <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
-</div>
+<ul>
+  <!-- 右側圖片 -->
+  <li style="list-style: none; float: right; margin-left: 20px;">
+    <img width="270" height="480" alt="gif" src="https://github.com" />
+  </li>
+  <!-- 左側文字 -->
+  <li style="list-style: none; overflow: hidden;">
+    <h2>Hi, I'm Anne ! 👋</h2>
+    <p>📌 Former Digital Marketer transitioning into tech-</p>
+    <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
+  </li>
+</ul>
 <div style="clear: both;"></div>
