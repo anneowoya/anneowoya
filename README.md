@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
   <!-- 圖片置右 -->
-  <img width="270" height="480" alt="gif" src="[https://github.com](https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354)" align="right" style="margin-left: 20px;" />
+  <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;" />
   
   <!-- 文字置左 -->
   <h2>Hi, I'm Anne ! 👋</h2>
