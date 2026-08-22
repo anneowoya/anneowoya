@@ -24,6 +24,7 @@ Here are some ideas to get you started:
       <h2>Hi, I'm Anne ! 👋</h2>
       <p>📌 Former Digital Marketer transitioning into tech-</p>
       <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
+      <p>努力學習，好好生活，持續往前 🏃‍♂️🏃‍♂️🏃‍♂️</p>
     </td>
     <td align="right" valign="top" width="280" style="border: none;">
       <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
