@@ -1,4 +1,6 @@
-## Hi 尼好 (՞•̀ω•́՞)⸝ ި ʕᦏ⌎
+<font size="17"><b>Hi 尼好 (՞•̀ω•́՞)⸝ި ʕᦏ⌎</b></font>
+⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
+
 <div>
   <!-- 圖片置右 -->
   <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 15px;" />
@@ -11,23 +13,6 @@
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 
-```bash
-anneowoya@github:~ $ cat profile.sh
-
-USER_INFO=(
-    [WHAT MY NAME]="Anne Lee"
-    [CHARACTER]="Information Management STUDENT"
-    [LOCATION]="Taiwan"
-    [LIFE QUOTE]="Courage is not the absence of fear,"
-                 "but rather the judgment that..."
-)
-
-Loading Skills & Knowledge...
-[████████████████████████████████░░░░] 80% (Data Analysis)
-[██████████████████████████████░░░░░░░] 70% (Python / SQL)
-
-echo "Environment initialized successfully!"
-```
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 <!-- 技能標籤與證書徽章 -->
