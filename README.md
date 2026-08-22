@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-  Hi, I'm Anne !<br>
-  📌 Former Digital Marketer transitioning into tech- <br>
-  ☀️ I am on my journey to becoming an engineer and learning every day<br>
-  </div>
-  <div style="width: 300px; text-align: right;">
-  <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
-  </div>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" style="border: none;">
+      <h2>Hi, I'm Anne ! 👋</h2>
+      <p>📌 Former Digital Marketer transitioning into tech-</p>
+      <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
+    </td>
+    <td align="right" valign="top" width="280" style="border: none;">
+      <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
+    </td>
+  </tr>
+</table>
