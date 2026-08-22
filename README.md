@@ -27,16 +27,18 @@ Here are some ideas to get you started:
 </div>
 <div style="clear: both;"></div>
 
-### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
+### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+
+```bash
 USER_INFO=(
     [NAME]="Your Name"
     [ROLE]="Full-Stack Engineer"
     [LOCATION]="Taichung, Taiwan"
     [PHILOSOPHY]="Stay curious, keep building."
-  )
+)
 
-echo "Initializing developer environment...
-
+echo "Initializing developer environment..."
+```
 
 
 
