@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+  Hi, I'm Anne !<br>
+  📌 Former Digital Marketer transitioning into tech- <br>
+  ☀️ I am on my journey to becoming an engineer and learning every day<br>
+  </div>
+  <div style="width: 300px; text-align: right;">
+  <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
+  </div>
 </div>
-
-Hi, I'm Anne !<br>
-📌 Former Digital Marketer transitioning into tech- <br>
-☀️ I am on my journey to becoming an engineer and learning every day<br>
-
