@@ -34,10 +34,8 @@
 </code></pre>
 </div>
 
-
-### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
 <!-- 技能標籤與證書徽章 -->
-<h2> Certificate&Credentials 證書/證照 </h2>
+<h2> Certificate&Credentials 證書/證照  ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h2>
 
 | Issuing Organization | NAME | BADGE|
 | :--- | :--- | :--- |
