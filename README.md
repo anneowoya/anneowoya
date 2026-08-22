@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <div style="clear: both;"></div>
 
   ![Python](https://shields.io)
-  ![ITS Python](https://www.credly.com/badges/30094736-5dd5-48ec-8217-6c43801a870b/public_url)
+  [![ITS Python](https://credly.com)](https://www.credly.com/badges/30094736-5dd5-48ec-8217-6c43801a870b/public_url)
 
