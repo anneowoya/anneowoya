@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
 </div>
 <div style="clear: both;"></div>
+
 ## ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 
 
