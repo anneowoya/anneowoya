@@ -24,5 +24,6 @@ Here are some ideas to get you started:
   <h2>Hi, I'm Anne ! 👋</h2>
   <p>📌 Former Digital Marketer transitioning into tech-</p>
   <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
+  <p> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
 </div>
 <div style="clear: both;"></div>
