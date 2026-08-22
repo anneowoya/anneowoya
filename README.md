@@ -24,9 +24,11 @@ Here are some ideas to get you started:
   <p>Hi, I'm Anne !</p>
   <p>📌 Former Digital Marketer transitioning into tech-</p>
   <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
-  <b><p> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 </div>
 <div style="clear: both;"></div>
+### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
+
+
 
 <!-- 技能標籤與證書徽章 -->
 <h3> Certificate </h3>
