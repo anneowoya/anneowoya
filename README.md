@@ -33,9 +33,8 @@ Here are some ideas to get you started:
   <!-- 漂亮的 Python 技能標籤 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   
-  <!-- 你的 ITS Python 證書徽章（跳轉至 Credly 驗證頁面） -->
+  <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
   <a href="https://www.credly.com/badges/30094736-5dd5-48ec-8217-6c43801a870b/public_url" target="_blank">
-    <img width="156" height="156" alt="ITS Python Certificate" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />
+    <img width="100" height="100" alt="ITS Python Certificate" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />
   </a>
 </p>
-修改說明重點：
