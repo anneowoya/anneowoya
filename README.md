@@ -12,7 +12,7 @@
     設定圖片高度 (height="800")
     設定 margin-right (style="margin-right: 20px;")，增加圖片與文字間的距離
   -->
-  <img align="left" width="450" height="800" src="YOUR_IMAGE_URL_HERE.jpg" style="margin-right: 20px;" alt="Anne's Journey" />
+  <img align="left" width="450" height="800" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"  alt="Anne's Journey" />
 
   <!-- 
     右側的文字內容
