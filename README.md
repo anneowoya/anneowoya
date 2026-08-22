@@ -20,11 +20,11 @@
   SQL         [██████████████░░░░░░] 70%  [CONFIGURING]
   C#          [████████░░░░░░░░░░░░] 40%  [LEARNING...]
 </code></pre>
-<b>Frameworks & Tools</b>
+<b>Frameworks & Tools 框架&工具</b>
 <pre><code>
-  ASP.NET       [████░░░░░░░░░░░░░░░░] 20%  [PENDING]
+  ASP.NET       [████████░░░░░░░░░░░░] 40% [LEARNING...]
   Django        [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
-  Git/GitHub    [██░░░░░░░░░░░░░░░░░░] 10%  [PENDING]
+  Git/GitHub    [██░░░░░░░░░░░░░░░░░░] 10% [LEARNING...]
   Docker        [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
 </code></pre>
   
@@ -38,7 +38,6 @@
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
 <!-- 技能標籤與證書徽章 -->
 <h2> Certificate 證書 </h2>
-
   <!-- 漂亮的 Python 技能標籤 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
