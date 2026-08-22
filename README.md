@@ -51,5 +51,5 @@
   <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
 <img width="100" height="100" alt="ITS Python Certificate" src="https://github.com/user-attachments/assets/c8fb6f8d-d63c-4cc3-b80c-fbfd8314faa7" />
 <img width="100" height="100" alt="ITS DB Certificate" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />
-<img width="160" height="60" alt="images" src="https://github.com/user-attachments/assets/dbf559b1-cf19-488c-99c2-bf0bd3a7476e" />
+<img width="160" height="60" alt="images" src="https://github.com/user-attachments/assets/dbf559b1-cf19-488c-99c2-bf0bd3a7476e" align="center"/>
 
