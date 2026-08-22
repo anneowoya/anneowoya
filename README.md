@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Anne !
+📌 Former Digital Marketer transitioning into tech- 
+☀️ I am on my journey to becoming an engineer and learning every day
