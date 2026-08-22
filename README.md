@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="270" height="300" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
 
 Hi, I'm Anne !
 📌 Former Digital Marketer transitioning into tech- 
 ☀️ I am on my journey to becoming an engineer and learning every day
+
