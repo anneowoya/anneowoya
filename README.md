@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
 </div>
 
-Hi, I'm Anne !
-📌 Former Digital Marketer transitioning into tech- 
-☀️ I am on my journey to becoming an engineer and learning every day
+Hi, I'm Anne !<br>
+📌 Former Digital Marketer transitioning into tech- <br>
+☀️ I am on my journey to becoming an engineer and learning every day<br>
 
