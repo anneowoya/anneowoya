@@ -34,18 +34,16 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=System.init();+Hello+World!;Full-Stack+Developer+%7C+Open+Source;Converting+Coffee+into+Code...%E2%98%95" alt="Typing SVG" />
 </p>
 
----
 
 ### 💻 `anneowoya@github:~ $ cat profile.sh`
 
 ```bash
 USER_INFO=(
-    [NAME]="Your Name"
-    [ROLE]="Full-Stack Engineer"
+    [NAME]="Anne Lee"
+    [ROLE]="IM STUDENT "
     [LOCATION]="Taichung, Taiwan"
-    [PHILOSOPHY]="Stay curious, keep building."
+    [PHILOSOPHY]="Courage is not the absence of fear, but rather the judgment that something else is more important than fear. "
 )
-
 echo "Initializing developer environment..."
 ```
 
