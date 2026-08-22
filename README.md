@@ -3,32 +3,15 @@
 
 <!-- 第一行Unicode藝術分隔線 -->
 <h3>⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h3>
-
-<!-- 圖片與右側文字的 HTML 結構 -->
 <div>
-  <!-- 
-    圖片置左 (align="left")
-    設定圖片寬度 (width="450")，請依據您的原圖寬度調整，圖片太寬會導致文字掉下去
-    設定圖片高度 (height="800")
-    設定 margin-right (style="margin-right: 20px;")，增加圖片與文字間的距離
-  -->
+  <!-- 文字置左 -->
+  <p>Hi, I'm Anne !</p>
+  <p>📌 Former Digital Marketer transitioning into tech-</p>
+  <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
+</div>
+<div style="clear: both;"></div>
   <img align="left" width="450" height="800" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"  alt="Anne's Journey" />
 
-  <!-- 
-    右側的文字內容
-    所有的 <p> 標籤（段落）都會在圖片右側排列
-  -->
-  <h2>📌 About Me</h2>
-  <p>Hi, I'm Anne!</p>
-  <p>An aspiring Software Engineer based in Taiwan.</p>
-  
-  <h2>☀️ Learning Journey</h2>
-  <p>Transitioning from Digital Marketing into Tech.</p>
-  <p>Currently learning Python, Go, and Web Development.</p>
-  
-  <h2>💡 Goals</h2>
-  <p>Stay curious, keep building, and contribute to Open Source.</p>
-</div>
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 <!-- 技能標籤與證書徽章 -->
