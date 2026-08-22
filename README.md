@@ -1,5 +1,4 @@
 ## Hi 尼好 (՞•̀ω•́՞)⸝ ި ʕᦏ⌎
-
 <div>
   <!-- 圖片置右 -->
   <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;" />
@@ -10,8 +9,8 @@
 </div>
 <div style="clear: both;"></div>
 
-### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
-<br></br>
+<h2> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h2>
+
 ```bash
 anneowoya@github:~ $ cat profile.sh
 
@@ -29,6 +28,8 @@ Loading Skills & Knowledge...
 
 echo "Environment initialized successfully!"
 ```
+
+
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 <!-- 技能標籤與證書徽章 -->
