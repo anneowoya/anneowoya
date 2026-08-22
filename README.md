@@ -15,7 +15,7 @@
 anneowoya@github:~ $ cat profile.sh
 
 USER_INFO=(
-    [WHAT's MY NAME]="Anne Lee"
+    [WHAT MY NAME]="Anne Lee"
     [CHARACTER]="Information Management STUDENT"
     [LOCATION]="Taiwan"
     [LIFE QUOTE]="Courage is not the absence of fear,"
