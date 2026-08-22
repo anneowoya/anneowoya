@@ -13,6 +13,25 @@
 <img width="270" height="480" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"/>
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
+<div>
+  <b>Language 語言</b>
+  <pre><code>
+    Python    [████████████████░░░░] 80%  [READY]
+    SQL       [██████████████░░░░░░] 70%  [CONFIGURING]
+    C#        [████████░░░░░░░░░░░░] 40%  [LEARNING...]
+    </code></pre>
+  <b>Frameworks & Tools</b>
+      <pre><code>
+        ASP.NET     [████░░░░░░░░░░░░░░░░] 20%  [PENDING]
+        Django      [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
+        Git/GitHub  [██░░░░░░░░░░░░░░░░░░] 10%  [PENDING]
+        Docker      [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
+      </code></pre>
+  <b></b>
+  <pre><code>
+        Coffee Level     [████████████████████] 100000% ☕ 
+  </code></pre>
+</div>
 
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
@@ -24,11 +43,3 @@
   <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
   <img width="100" height="100" alt="ITS Python Certificate" src="https://github.com/user-attachments/assets/c8fb6f8d-d63c-4cc3-b80c-fbfd8314faa7" />
   <img width="100" height="100" alt="ITS DB Certificate" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />
-<div>
-  <pre><code>
-    Python / SQL     [████████████████░░░░] 80% ⚡ [READY]
-    Git / DevOps     [████████████░░░░░░░░] 60% ⚙️ [CONFIGURING]
-    System Design    [████████░░░░░░░░░░░░] 40% 🧪 [COMPILING...]
-    Coffee Level     [████████████████████] 100% ☕ [OVERFLOW]
-    </code></pre>
-</div>
