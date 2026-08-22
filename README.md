@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <ul>
   <!-- 右側圖片 -->
   <li style="list-style: none; float: right; margin-left: 20px;">
-    <img width="270" height="480" alt="gif" src="https://github.com" />
+    <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
   </li>
   <!-- 左側文字 -->
   <li style="list-style: none; overflow: hidden;">
