@@ -11,7 +11,7 @@
 <div style="clear: both;"></div>
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
-
+```bash
 anneowoya@github:~ $ cat profile.sh
 
 USER_INFO=(
@@ -27,6 +27,7 @@ Loading Skills & Knowledge...
 [██████████████████████░░░░░░░░░░░░░░] 55% (Python / SQL)
 
 echo "Environment initialized successfully!"
+```
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
