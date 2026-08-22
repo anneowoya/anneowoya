@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 <div style="clear: both;"></div>
 
   ![Python](https://shields.io)
-<a href="https://www.credly.com/badges/30094736-5dd5-48ec-8217-6c43801a870b/public_url" target="_blank">
-  <img src="https://images.credly.com/images/8125a0a3-f09d-4299-8263-a264a7c062a4/image.png" alt="ITS Python Badge" width="150" />
-</a>
+  ![ITS Python](<img width="156" height="156" alt="it-specialist-databases" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />)
