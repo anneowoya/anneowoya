@@ -19,16 +19,13 @@ Here are some ideas to get you started:
 
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" style="border: none;">
-      <h2>Hi, I'm Anne ! 👋</h2>
-      <p>📌 Former Digital Marketer transitioning into tech-</p>
-      <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
-      <p>努力學習，好好生活，持續往前 🏃‍♂️🏃‍♂️🏃‍♂️</p>
-    </td>
-    <td align="right" valign="top" width="280" style="border: none;">
-      <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" />
-    </td>
-  </tr>
-</table>
+<div>
+  <!-- 圖片置右 -->
+  <img width="270" height="480" alt="gif" src="https://github.com" align="right" style="margin-left: 20px;" />
+  
+  <!-- 文字置左 -->
+  <h2>Hi, I'm Anne ! 👋</h2>
+  <p>📌 Former Digital Marketer transitioning into tech-</p>
+  <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
+</div>
+<div style="clear: both;"></div>
