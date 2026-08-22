@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;" />
   
   <!-- 文字置左 -->
-  <h2>Hi, I'm Anne ! 👋</h2>
+  <p>Hi, I'm Anne !</p>
   <p>📌 Former Digital Marketer transitioning into tech-</p>
   <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
   <p> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
