@@ -1,20 +1,3 @@
-
-
-<!--
-## Hi there 👋
-**anneowoya/anneowoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi 尼好 (՞•̀ω•́՞)⸝ި ʕᦏ⌎
 
 <div>
@@ -28,10 +11,9 @@ Here are some ideas to get you started:
 <div style="clear: both;"></div>
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
-
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=System.init();+Hello+World!;Full-Stack+Developer+%7C+Open+Source;Converting+Coffee+into+Code...%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=System.init();+Hello+World!;Former+Digital+Marketer+-%3E+Tech;Learning+%26+Building+Every+Day...%E2%98%95" alt="Typing SVG" />
 </p>
 
 ```ansi
@@ -47,9 +29,6 @@ Here are some ideas to get you started:
 
 [1;35mecho[0m "Initializing developer environment..."
 ```
-
-
-
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 
