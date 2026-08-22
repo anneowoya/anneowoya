@@ -14,23 +14,24 @@
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
 <div>
-  <b>Language 語言</b>
-  <pre><code>
-    Python    [████████████████░░░░] 80%  [READY]
-    SQL       [██████████████░░░░░░] 70%  [CONFIGURING]
-    C#        [████████░░░░░░░░░░░░] 40%  [LEARNING...]
-    </code></pre>
-  <b>Frameworks & Tools</b>
-      <pre><code>
-        ASP.NET     [████░░░░░░░░░░░░░░░░] 20%  [PENDING]
-        Django      [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
-        Git/GitHub  [██░░░░░░░░░░░░░░░░░░] 10%  [PENDING]
-        Docker      [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
-      </code></pre>
-  <b></b>
-  <pre><code>
-        Coffee Level     [████████████████████] 100000% ☕ 
-  </code></pre>
+<b>Language 語言</b>
+<pre><code>
+  Python      [████████████████░░░░] 80%  [READY]
+  SQL         [██████████████░░░░░░] 70%  [CONFIGURING]
+  C#          [████████░░░░░░░░░░░░] 40%  [LEARNING...]
+</code></pre>
+<b>Frameworks & Tools</b>
+<pre><code>
+  ASP.NET       [████░░░░░░░░░░░░░░░░] 20%  [PENDING]
+  Django        [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
+  Git/GitHub    [██░░░░░░░░░░░░░░░░░░] 10%  [PENDING]
+  Docker        [░░░░░░░░░░░░░░░░░░░░] 0%  [PENDING]
+</code></pre>
+  
+<b>ENERGY☕</b>
+<pre><code>
+  Coffee Level  [████████████████████] 100000% ☕ 
+</code></pre>
 </div>
 
 
