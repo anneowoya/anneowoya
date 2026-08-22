@@ -37,9 +37,15 @@
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
 <!-- 技能標籤與證書徽章 -->
-<h2> Certificate 證書 </h2>
+<h2> Certificate&Credentials 證書/證照 </h2>
   <!-- 漂亮的 Python 技能標籤 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
   <img width="100" height="100" alt="ITS Python Certificate" src="https://github.com/user-attachments/assets/c8fb6f8d-d63c-4cc3-b80c-fbfd8314faa7" />
   <img width="100" height="100" alt="ITS DB Certificate" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />
+<div>
+| 發照機構 / 技能 | 證書名稱 | 說明 / 徽章 |
+| :--- | :--- | :--- |
+| **Microsoft / Certiport** | ITS Python Certification | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Microsoft / Certiport** | ITS Databases Certification | ![Database](https://img.shields.io/badge/Database-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white) |
+</div>
