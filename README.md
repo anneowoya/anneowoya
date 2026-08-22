@@ -1,7 +1,7 @@
 ## Hi 尼好 (՞•̀ω•́՞)⸝ ި ʕᦏ⌎
 <div>
   <!-- 圖片置右 -->
-  <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;" />
+  <img width="270" height="480" alt="gif" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 30px;" />
   <!-- 文字置左 -->
   <p>Hi, I'm Anne !</p>
   <p>📌 Former Digital Marketer transitioning into tech-</p>
