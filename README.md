@@ -38,13 +38,6 @@
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
 <!-- 技能標籤與證書徽章 -->
 <h2> Certificate&Credentials 證書/證照 </h2>
-  <!-- 漂亮的 Python 技能標籤 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
-  <img width="100" height="100" alt="ITS Python Certificate" src="https://github.com/user-attachments/assets/c8fb6f8d-d63c-4cc3-b80c-fbfd8314faa7" />
-  <img width="100" height="100" alt="ITS DB Certificate" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />
-
-
 
 | Issuing Organization | NAME | BADGE|
 | :--- | :--- | :--- |
@@ -54,5 +47,10 @@
 | **TQC+** | 程式語言 Python 3 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **TQC+** | 軟體開發知識 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **TQC+** | Python大數據分析專業人員 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+  <!-- 你的 ITS DB 證書徽章（跳轉至 Credly 驗證頁面） -->
+  <img width="100" height="100" alt="ITS Python Certificate" src="https://github.com/user-attachments/assets/c8fb6f8d-d63c-4cc3-b80c-fbfd8314faa7" />
+  <img width="100" height="100" alt="ITS DB Certificate" src="https://github.com/user-attachments/assets/3a38b1c0-ae68-4c69-bc9d-86411dbc4771" />
+
 
 
