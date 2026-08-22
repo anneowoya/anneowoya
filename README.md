@@ -12,22 +12,25 @@
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
-<!-- HEADER BANNER -->
-
-```bash
 anneowoya@github:~ $ cat profile.sh
+
 USER_INFO=(
     [NAME]="Anne Lee"
     [ROLE]="IM STUDENT"
     [LOCATION]="Taichung, Taiwan"
-    [PHILOSOPHY]="Courage is not the absence of fear, but rather the judgment that something else is more important."
+    [PHILOSOPHY]="Courage is not the absence of fear,"
+                 "but rather the judgment that..."
 )
-echo "Initializing developer environment..."
-```
+
+Loading Skills & Knowledge...
+[████████████████████████████████░░░░] 80% (Data Analysis)
+[██████████████████████░░░░░░░░░░░░░░] 55% (Python / SQL)
+
+echo "Environment initialized successfully!"
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
-<!-- 技能標籤與證書徽章 -->
+
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
 <!-- 技能標籤與證書徽章 -->
 <h3> Certificate </h3>
