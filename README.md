@@ -28,11 +28,14 @@ Here are some ideas to get you started:
 <div style="clear: both;"></div>
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p></b>
+USER_INFO=(
+    [NAME]="Your Name"
+    [ROLE]="Full-Stack Engineer"
+    [LOCATION]="Taichung, Taiwan"
+    [PHILOSOPHY]="Stay curious, keep building."
+  )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+echo "Initializing developer environment...
 
 
 
