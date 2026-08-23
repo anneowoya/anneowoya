@@ -3,14 +3,13 @@
 
 ###  ⊹𓊝﹏𓂁*ੈ✩·₊˚༺☆༻*˚*ੈ✩·₊˚✩˖⊹𓊝﹏𓂁﹏⊹⊹⊹
 ```yaml
-anneowoya@github: ----------------------------------------------------
-  UPDATE_TIME: ............................................... 1998
-  Host: ..................................................... STUDY
+@@ anneowoya@github ---------------------------------------------------- @@
+@@ UPDATE_TIME: ............................................... 1998 @@
+@@ Host: ..................................................... STUDY @@
 
-  INTRO: .............................. OTW to becoming an engineer
-  ROUTINE: ...................................... LEARNING EVERYDAY
-  EXPERIENCE: ........ Former Digital Marketer transitioning into tech
-
++ INTRO: .............................. OTW to becoming an engineer
++ ROUTINE: ...................................... LEARNING EVERYDAY
++ EXPERIENCE: ........ Former Digital Marketer transitioning into tech
 ```
 
 <img width="270" height="480" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"/>
