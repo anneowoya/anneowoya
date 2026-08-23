@@ -3,13 +3,13 @@
 
 ###  ⊹𓊝﹏𓂁*ੈ✩·₊˚༺☆༻*˚*ੈ✩·₊˚✩˖⊹𓊝﹏𓂁﹏⊹⊹⊹
 ```yaml
-anneowoya@github -----------------------------------------------------
-  UPDATE TIME：-------------------------------------------------- 1998
-  Host：-------------------------------------------------------- STUDY
+anneowoya@github: ----------------------------------------------------
+  UPDATE_TIME: ............................................... 1998
+  Host: ..................................................... STUDY
 
-  INTRO：--------------------------------- OTW to becoming an engineer
-  ROUTINE：----------------------------------------0 LEARNING EVERYDAY
-  EXPERIENCE：--------Former Digital Marketer transitioning into tech-
+  INTRO: .............................. OTW to becoming an engineer
+  ROUTINE: ...................................... LEARNING EVERYDAY
+  EXPERIENCE: ........ Former Digital Marketer transitioning into tech
 
 ```
 
