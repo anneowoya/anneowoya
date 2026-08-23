@@ -4,18 +4,14 @@
 ###  ⊹𓊝﹏𓂁*ੈ✩·₊˚༺☆༻*˚*ੈ✩·₊˚✩˖⊹𓊝﹏𓂁﹏⊹⊹⊹
 ```yaml
 anneowoya@github -----------------------------------------------------
-  UPDATE TIME：-----------------------------------------------JUN-2026
-  Host：----------------------------------------------------------FREE
+  UPDATE TIME：-------------------------------------------------- 1998
+  Host：-------------------------------------------------------- STUDY
+
+  INTRO：--------------------------------- OTW to becoming an engineer
+  ROUTINE：----------------------------------------0 LEARNING EVERYDAY
+  EXPERIENCE：--------Former Digital Marketer transitioning into tech-
 
 ```
-  <!-- 文字置左 -->
-  <p>I'm Anne !轉職路上中--------</p>
-  <p>📌 Former Digital Marketer transitioning into tech </p>
-  <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
-</div>
-<div style="clear: both;"></div>
-
-
 
 <img width="270" height="480" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"/>
 
