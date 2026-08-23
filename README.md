@@ -2,13 +2,21 @@
 <h1><b>Hi 尼好 (՞•̀ω•́՞)⸝ި ʕᦏ⌎ </b></h1>
 
 ###  ⊹𓊝﹏𓂁*ੈ✩·₊˚༺☆༻*˚*ੈ✩·₊˚✩˖⊹𓊝﹏𓂁﹏⊹⊹⊹
-<div>
+```yaml
+anneowoya@github -----------------------------------------------------
+  UPDATE TIME：-----------------------------------------------JUN-2026
+  Host：----------------------------------------------------------FREE
+
+```
   <!-- 文字置左 -->
-  <p>Hi, I'm Anne !</p>
-  <p>📌 Former Digital Marketer transitioning into tech 轉職路上中--------</p>
+  <p>I'm Anne !轉職路上中--------</p>
+  <p>📌 Former Digital Marketer transitioning into tech </p>
   <p>☀️ I am on my journey to becoming an engineer and learning every day</p>
 </div>
 <div style="clear: both;"></div>
+
+
+
 <img width="270" height="480" src="https://github.com/user-attachments/assets/a845ef18-4ec4-4750-b364-216fa710d354" align="right" style="margin-left: 20px;"/>
 
 ### ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ *ੈ✩·₊˚༺☆༻*ੈ✩·₊ ˚*ੈ✩·₊˚༺☆༻*ੈ✩·₊˚˖⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</p>
